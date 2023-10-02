@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome! I'm Rob. 
+
+I'm a software development student and I enjoy discovering solutions for problems that I'm interested in. 
+
+- 🔭 I’m currently working on a concert tracking app (I *love* music) and a documentation-style site for study sessions 
+- 🌱 I’m learning JavaScript, C#, PHP, Python, SQL and various libraries
+
+Thanks for checking out my profile.
 
 <!--
 **robkumarrr/robkumarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
