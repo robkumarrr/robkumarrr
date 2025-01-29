@@ -2,8 +2,8 @@
 
 I'm a software development student and I enjoy discovering solutions for problems that I'm interested in. 
 
-- 🔭 I’m currently working on a concert tracking app (I *love* music) and a documentation-style site for study sessions 
-- 🌱 I’m learning JavaScript, C#, PHP, Python, SQL and various libraries and frameworks.
+- 🔭 I’m currently working on a concert tracking app (I *love* music) and a custom portfolio with Next.js. 
+- 🌱 I’m always learning JavaScript, C#, PHP, Python, SQL and various libraries and frameworks.
 
 Thanks for checking out my profile!
 
