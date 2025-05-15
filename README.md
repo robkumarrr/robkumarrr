@@ -1,11 +1,12 @@
-### Welcome! I'm Rob. 
+## Welcome! I'm Rob. 
 
-I'm a software development student and I enjoy discovering solutions for problems that I'm interested in. 
+#### I'm a software development student and I enjoy discovering solutions for problems that I'm interested in. 
 
-- 🔭 I’m currently working on a concert tracking app (I *love* music) and a custom portfolio with Next.js. 
-- 🌱 I’m always learning JavaScript, C#, PHP, Python, SQL and various libraries and frameworks.
+- 🔭 I’m currently working on a concert tracking app (I *love* music) for my capstone project. 
+- 🌱 I always enjoy learning JavaScript (React, Next.js, Express, Node), PHP (Laravel), Python, SQL and various libraries and frameworks.
+- ⚡ I'd love to learn some C, C++ and more Java in my free time.
 
-Thanks for checking out my profile!
+Thanks for checking out my profile! Have a wonderful day.
 
 <!--
 **robkumarrr/robkumarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
