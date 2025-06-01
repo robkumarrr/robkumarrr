@@ -2,7 +2,7 @@
 
 #### I'm a software development student and I enjoy discovering solutions for problems that I'm interested in. 
 
-- 🔭 I’m currently working on a concert tracking app (I *love* music) for my capstone project. 
+- 🔭 I’m currently working on a concert tracking app (I *love* music) for my capstone project, and I recently created a recipe tracker for fun. 
 - 🌱 I always enjoy learning JavaScript (React, Next.js, Express, Node), PHP (Laravel), Python, SQL and various libraries and frameworks.
 - ⚡ I'd love to learn some C, C++ and more Java in my free time.
 
