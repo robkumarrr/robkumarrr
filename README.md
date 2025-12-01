@@ -2,23 +2,8 @@
 
 #### I'm a software development student and I enjoy discovering solutions for problems that I'm interested in. 
 
-- 🔭 I’m currently working on a concert tracking app (I *love* music) for my capstone project, and I recently created a recipe tracker for fun. 
-- 🌱 I always enjoy learning JavaScript (React, Next.js, Express, Node), PHP (Laravel), Python, SQL and various libraries and frameworks.
-- ⚡ I'd love to learn some C, C++ and more Java in my free time.
+- ⚡ I'm working on improving my skills in Laravel, Vue and React at the moment for work.
+- 🔭 I just finished working on a concert tracking app for my capstone project at Mohawk College, and I recently created a recipe tracker for fun. 
+- 🌱 I always enjoy learning levelling up my skills and using practice-based learning to understand concepts deeply.
 
 Thanks for checking out my profile! Have a wonderful day.
-
-<!--
-**robkumarrr/robkumarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
