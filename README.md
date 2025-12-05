@@ -31,10 +31,6 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robkumarrr&theme=radical)
-
----
-
 #### Thanks for checking out my profile! 
 #### Have a wonderful day. Feel free to connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rob-kumar/)
