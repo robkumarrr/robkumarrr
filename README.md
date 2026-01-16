@@ -1,9 +1,8 @@
 # Welcome! I'm Rob. 
 ## 👋🏽 About Me
 
-- 💼 I just joined **Vehikl Inc.** as a full-time software developer and I'm surrounded by excellent developers who are helping me learn.
-- ⚡ I'm currently working on improving my skills in **Laravel**, **Vue**, **React** and **TDD**.
-- 🎵 I just finished working on a concert tracking app for my capstone project at **Mohawk College**, and I recently created a recipe tracker for fun.
+- 💼 I work at **Vehikl Inc.** as a full-time software developer and I'm surrounded by excellent developers who are helping me learn.
+- ⚡ I'm currently working on improving my skills in **Laravel**, **Vue**, and **TDD**.
 - 🌱 I always enjoy levelling up my skills and using practice-based learning to understand concepts deeply.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rob-kumar/) or check out my [portfolio](https://www.robkumar.com/)!
 
