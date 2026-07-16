@@ -1,9 +1,9 @@
 # Welcome! I'm Rob. 
 ## 👋🏽 About Me
 
-- 💼 I work at **Vehikl Inc.** as a full-time software developer and I'm surrounded by excellent developers who are helping me learn.
-- ⚡ I'm currently working on improving my skills in **Laravel**, **Vue**, and **TDD**.
+- 💼 I work at **Vehikl Inc.** as a full-time software developer.
 - 🌱 I always enjoy levelling up my skills and using practice-based learning to understand concepts deeply.
+- 🤖 In the ever-changing world I've been adapting to modern AI flows to speed up development.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rob-kumar/) or check out my [portfolio](https://www.robkumar.com/)!
 
 ---
