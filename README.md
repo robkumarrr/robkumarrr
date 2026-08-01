@@ -1,13 +1,13 @@
-# Welcome! I'm Rob. 
-## 👋🏽 About Me
+# Welcome! 👋🏽 I'm Rob. 
+## About Me
 
-- 💼 I work at **Vehikl Inc.** as a full-time software developer.
+- 💼 I work at **Vehikl Inc.** as a software developer.
 - 🌱 I always enjoy levelling up my skills and using practice-based learning to understand concepts deeply.
 - 🤖 In the ever-changing world I've been adapting to modern AI flows to speed up development.
 
 ---
 
-### Everything that I'm interested in, want to learn, or that I'm currently learning and using:
+### Tools and Interests
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-#### Thanks for checking out my profile! 
-#### Have a wonderful day.
+#### Thanks for checking out my profile! Have a wonderful day!
